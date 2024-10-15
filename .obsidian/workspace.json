@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ac99cb8bb9eab045",
+    "type": "split",
+    "children": [
+      {
+        "id": "077856e36747361f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36536522aff875f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/Politics/nationalism/Ukraine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc80e38f2f4896f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e956e846cbe28d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb314be0268ca4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4975c8677eff8542",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "test",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05ed47e4b8a7d488",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9d31f90af89308dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "942ad7f364bcc7fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2d8f0cb3b2e2398",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "philosophy/Politics/nationalism/Ukraine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7908b6a22caaf4cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "philosophy/Politics/nationalism/Ukraine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c74f4e04accd200e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a8c0c6f1d299ee7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "philosophy/Politics/nationalism/Ukraine.md"
+              }
+            }
+          },
+          {
+            "id": "31a28250ffa1d346",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aa4d4ffdb237523",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "reference-map:Reference Map": false,
+      "memorization:Memorize Notes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-tts:Text to Speech": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "bdb314be0268ca4e",
+  "lastOpenFiles": [
+    "philosophy/Ethics/index.md",
+    "philosophy/Economics/index.md",
+    "philosophy/Biology/index.md",
+    "programming/Laravel/Composer/composer dump-autoload.md",
+    "programming/Laravel/Composer/composer clear-cache.md",
+    "writings/Голос/index.md",
+    "writings/Голос/сюжет.md",
+    "writings/Голос/мораль.md",
+    "TTS.md",
+    "Part 1.md",
+    "history-ukr-1.mp3",
+    "2024-02-12.md",
+    "history-ukr-2.mp3",
+    "history-ukr-17.mp3",
+    "history-ukr-16.mp3",
+    "history-ukr-15.mp3",
+    "history-ukr-14.mp3",
+    "history-ukr-13.mp3",
+    "history-ukr-12.mp3",
+    "history-ukr-11.mp3",
+    "history-ukr-10.mp3",
+    "Untitled.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "programming/Laravel/Blade/yield.md",
+    "writings/Голос/англійську.md",
+    "programming/Laravel/Repository/index.md",
+    "programming/Laravel/Middlewares/in controller.md",
+    "programming/Laravel/Middlewares/index.md",
+    "programming/Laravel/Providers/AppServiceProvider.md",
+    "programming/Laravel/Models/seeder.md",
+    "programming/Laravel/Artisan/migrate.md",
+    "programming/Laravel/Models/factory.md"
+  ]
+}
