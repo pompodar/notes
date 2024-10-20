@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Part 1.md",
+                "file": "philosophy/Economics/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 1.md",
+                "file": "philosophy/Economics/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Part 1.md",
+                "file": "philosophy/Economics/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Part 1.md"
+                "file": "philosophy/Economics/index.md"
               }
             }
           },
@@ -175,17 +175,18 @@
   },
   "active": "36536522aff875f9",
   "lastOpenFiles": [
-    "writings/Голос/index.md",
-    "writings/Голос/мораль.md",
-    "writings/Голос/сюжет.md",
-    "philosophy/Politics/nationalism/Ukraine.md",
     "philosophy/Ethics/index.md",
+    "philosophy/Politics/nationalism/Ukraine.md",
+    "philosophy/Religion/Egypt.md",
     "philosophy/Economics/index.md",
     "philosophy/Biology/index.md",
+    "Part 1.md",
+    "writings/Голос/index.md",
+    "TTS.md",
+    "writings/Голос/мораль.md",
+    "writings/Голос/сюжет.md",
     "programming/Laravel/Composer/composer dump-autoload.md",
     "programming/Laravel/Composer/composer clear-cache.md",
-    "TTS.md",
-    "Part 1.md",
     "history-ukr-1.mp3",
     "2024-02-12.md",
     "history-ukr-2.mp3",
