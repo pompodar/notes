@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/Politics/nationalism/Ukraine.md",
+                "file": "Part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy/Politics/nationalism/Ukraine.md",
+                "file": "Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosophy/Politics/nationalism/Ukraine.md",
+                "file": "Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/Politics/nationalism/Ukraine.md"
+                "file": "Part 1.md"
               }
             }
           },
@@ -173,16 +173,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bdb314be0268ca4e",
+  "active": "36536522aff875f9",
   "lastOpenFiles": [
+    "writings/Голос/index.md",
+    "writings/Голос/мораль.md",
+    "writings/Голос/сюжет.md",
+    "philosophy/Politics/nationalism/Ukraine.md",
     "philosophy/Ethics/index.md",
     "philosophy/Economics/index.md",
     "philosophy/Biology/index.md",
     "programming/Laravel/Composer/composer dump-autoload.md",
     "programming/Laravel/Composer/composer clear-cache.md",
-    "writings/Голос/index.md",
-    "writings/Голос/сюжет.md",
-    "writings/Голос/мораль.md",
     "TTS.md",
     "Part 1.md",
     "history-ukr-1.mp3",
